@@ -2,8 +2,11 @@
     <string name="app_name">MagicCarpe</string>
     <string name="handprint">Empreinte</string>
     <string name="login">LOGIN ou EMAIL</string>
+    <string name="email">EMAIL</string>
+    <string name="inscriptionLogin">LOGIN</string>
     <string name="password">PASSWORD</string>
     <string name="validate">VALIDER</string>
     <string name="google">Google</string>
     <string name="facebook">Facebook</string>
+    <string name="send">Envoyer</string>
 </resources>
