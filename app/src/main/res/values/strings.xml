@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">MagicCarpe</string>
+    <string name="titre">Magic Carpe</string>
+    <string name="sous_titre">La carpe enfin accessible</string>
+    <string name="btn_connexion">connexion</string>
+    <string name="btn_inscription">inscription</string>
     <string name="handprint">Empreinte</string>
     <string name="login">LOGIN ou EMAIL</string>
     <string name="email">EMAIL</string>
